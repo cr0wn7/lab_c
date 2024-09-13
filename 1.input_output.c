@@ -58,4 +58,3 @@ int main(int argc, char *argv[]) {
     printf("Zeichen       : %c\n", c);
     return 0;
 }
-
